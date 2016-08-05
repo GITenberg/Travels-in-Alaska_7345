@@ -1,0 +1,34 @@
+_repo: Travels-in-Alaska_7345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+description: John Muir first saw Alaska in 1879, only twelve years after it was purchased
+  from Russia by the United States. Four more times, in 1880, 1881, 1890, and 1899,
+  he was drawn back to this land of rivers and glaciers, sunsets and northern lights,
+  campfires and Arctic stars. Few people have lived so many adventures, yet Muir was
+  not a mere collector of adventure; the hazards he encountered - and many were spine-tingling
+  - came as a result of his intense desire to examine new aspects of the natural world.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalists -- United States -- Biography'
+- !lcsh 'Conservationists -- United States -- Biography'
+- !lcc 'F850.5'
+- !lcsh 'Muir, John, 1838-1914 -- Travel -- Alaska'
+- !lcsh 'Alaska -- Description and travel'
+- !lcc 'QH'
+- GITenberg
+title: Travels in Alaska
+url: http://www.gutenberg.org/ebooks/7345
