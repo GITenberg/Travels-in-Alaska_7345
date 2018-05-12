@@ -1,5 +1,8 @@
 _repo: Travels-in-Alaska_7345
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Muir, John
@@ -14,6 +17,8 @@ description: John Muir first saw Alaska in 1879, only twelve years after it was 
   campfires and Arctic stars. Few people have lived so many adventures, yet Muir was
   not a mere collector of adventure; the hazards he encountered - and many were spine-tingling
   - came as a result of his intense desire to examine new aspects of the natural world.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7345#Travels-in-Alaska
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
